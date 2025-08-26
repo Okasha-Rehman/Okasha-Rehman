@@ -3,13 +3,10 @@
 
 
 
-#### I am DevSecOps Engineer
 
 
 
 
-
-I'm a DevSecOps + Backend AI Engineer focused on streamlining software delivery processes through automation and AI implementation with a super focus on Security 
-aspects.
+I'm a DevSecOps + Backend AI Engineer focused on streamlining software delivery processes through automation and AI implementation.
 
 
