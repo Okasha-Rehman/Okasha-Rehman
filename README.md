@@ -3,15 +3,12 @@
 
 
 
-#### I am DevOps Engineer
+#### I am DevSecOps Engineer
 
 
 
 
 
-Hello there! I'm a DevOps professional focused on streamlining software delivery processes through automation and collaboration.
+I'm a DevSecOps + Backend AI Engineer focused on streamlining software delivery processes through automation and AI implementation with a super focus on Security aspects and.
 
-<!---
-Okasha-Rehman/Okasha-Rehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
